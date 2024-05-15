@@ -23,7 +23,7 @@ if gpus:
         print(e)
 
 # Dataset Preparation
-data_dir = "./raw-img"
+data_dir = "./raw-img" #update if necessary
 img_height, img_width = 112, 112
 batch_size = 16
 
